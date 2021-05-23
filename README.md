@@ -1,10 +1,26 @@
 <h1 align="center">Hi there 👋 I'm Berna</h1>
+<h2 align="center">Github Profile Trophy</h2>
+</p>
+<p align="center">
+  <a href="https://github.com/bernatasel/github-profile-trophy/issues">
+    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
+  </a>
+  <a href="https://github.com/bernatasel/github-profile-trophy/network/members">
+    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
+  </a>  
+  <a href="https://github.com/bernatasel/github-profile-trophy/stargazers">
+    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+  </a>
+    <a href="https://github.com/bernatasel/github-profile-trophy/LICENSE">
+    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
+  </a>
+</p>
 
 
 - 📚 I'm a senior Computer Engineering student at Yildiz Technical University.
 - 🔭 I’m currently working on Android Programming and Image Processing.
-- 📫 How to reach me: https://www.linkedin.com/in/bernatasel/
-
+- 📫 How to reach me:
+<a href="https://linkedin.com/in/bernatasel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bernatasel)](https://github.com/ryo-ma/github-profile-trophy)
 
