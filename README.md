@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Berna</h1>
 
-I'm Berna. I am from Istanbul. I've always been interested in software and computer hardware. I like to learn new things and improve myself. I did internships in robotics, database and natural language processing. I'm doing my graduation project on an Android application that recognizes food with deep learning.
+I'm from Istanbul. I've always been interested in software and computer hardware. I like to learn new things and improve myself. I did internships in robotics, database and natural language processing. I'm doing my graduation project on an Android application that recognizes food with deep learning.
 
 <h2 align="center">Github Profile Trophy</h2>
 
