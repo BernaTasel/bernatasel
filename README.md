@@ -9,9 +9,8 @@ I'm from Istanbul. I've always been interested in software and computer hardware
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-- 📚 I'm a senior Computer Engineering student at Yildiz Technical University.
 
-- 📱 I’m currently working on Android Programming and Image Processing.
+- 📱 I’m currently working on Android Programming
 
 
 
